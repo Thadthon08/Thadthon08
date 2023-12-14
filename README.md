@@ -1,5 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thadthon Sangkhachon
- *💻 Computer Engineering student*
+ #💻 Computer Engineering student#
 🌍  I'm based in I'm based in NakhonRatchasima, Thailand* ✉️  You can contact me at [taston4411@gmail.com](mailto:taston4411@gmail.com)* 🧠  I'm learning React.js
 
 ### Skills
