@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thadthon Sangkhachon</h1>
-<h3 align="center">💻 Computer Engineering Student 🚀</h3>
+<h3 align="center">💻 Computer Engineering Student 💻 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thadthon08&label=Profile%20views&color=0e75b6&style=flat" alt="thadthon08" /> </p>
 
