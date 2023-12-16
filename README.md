@@ -1,4 +1,4 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thadthon Sangkhachon  
+<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thadthon Sangkhachon<h1>
 <h3 align="center">💻 Computer Engineering Student 💻 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thadthon08&label=Profile%20views&color=0e75b6&style=flat" alt="thadthon08" /> </p>
