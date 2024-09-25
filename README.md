@@ -1,10 +1,7 @@
 <h2 align="left">Hi 👋! My name is Thadthon Sangkhachin.</h2>
 
 ## About Me
-
-
-<h4>I'm a computer engineering student, from Thailand</h4>
-
+-<h4>I'm a computer engineering student, from Thailand</h4>
 ###
 
 <div align="center">
