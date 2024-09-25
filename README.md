@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name is Thadthon Sangkhachin and I'm a computer engineering student, from Thailand.</h2>
+<h2 align="left">Hi 👋! My name is Thadthon Sangkhachin.</h2>
+
+
+<h4>I'm a computer engineering student, from Thailand</h4>
 
 ###
 
@@ -37,7 +40,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src
+="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
