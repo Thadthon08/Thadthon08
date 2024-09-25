@@ -2,6 +2,30 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://camo.githubusercontent.com/012d0ec774be7ba710beaa473e1054b05966e1c973eacbb843805d59300e6b96/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f31314b7a4f657431456c42447a322f67697068792e6769663f6369643d366330396239353275666133787862626d306d707561646d327a61696b33776a70346d396c757a326c79306c797a38642665703d76315f696e7465726e616c5f6769665f62795f6964267269643d67697068792e6769662663743d67"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <a href="https://www.instagram.com/_thtas_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.gg/H3rkKRDw" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSBmXKXwTlDfffgJWHHjTswsXLWWtWdJvfcrZxGKcPNXGqzgMzFcQSrxZmQCtcHhbGXsdgjs" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.facebook.com/tas.ton.5" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+</div>
+
+###
+
 <p align="left">Skills :</p>
 
 ###
@@ -50,33 +74,10 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <a href="https://www.instagram.com/_thtas_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/H3rkKRDw" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSBmXKXwTlDfffgJWHHjTswsXLWWtWdJvfcrZxGKcPNXGqzgMzFcQSrxZmQCtcHhbGXsdgjs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.facebook.com/tas.ton.5" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-</div>
-
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Thadthon08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thadthon08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
