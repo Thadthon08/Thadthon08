@@ -1,4 +1,4 @@
-<h2 align="center">Hi <img src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Hi.gif" width="28px"/>, My name is Thadthon Sangkhachin.</h2>
+<h2 align="center">Hi <img src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Hi.gif" width="28px"/>, My name is Thadthon Sangkhachon.</h2>
 
 
 <div align="center">
